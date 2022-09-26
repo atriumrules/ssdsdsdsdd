@@ -1,0 +1,13 @@
+{
+	"refresh_time": "5",
+	"links": {
+		"1": {
+			"link_id": "1",
+			"link": "https://information.atriumhub.cloud"
+		},
+		"2": {
+			"link_id": "2",
+			"link": "https://panel.atriumhub.cloud"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "requests": {
+        "1": {
+            "last_req": "2022, 09, 26, 15:37",
+            "status_code": 200,
+            "error": false
+        },
+        "2": {
+            "last_req": "2022, 09, 26, 15:37",
+            "status_code": 200,
+            "error": false
+        },
+        "total": 2
+    }
+}
